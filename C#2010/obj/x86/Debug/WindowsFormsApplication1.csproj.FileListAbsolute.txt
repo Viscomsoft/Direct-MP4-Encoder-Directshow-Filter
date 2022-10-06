@@ -1,0 +1,9 @@
+C:\Program Files (x86)\Direct MP4 Encoder Directshow Filter\Examples\C#2010\bin\Debug\WindowsFormsApplication1.exe
+C:\Program Files (x86)\Direct MP4 Encoder Directshow Filter\Examples\C#2010\bin\Debug\WindowsFormsApplication1.pdb
+C:\Program Files (x86)\Direct MP4 Encoder Directshow Filter\Examples\C#2010\bin\Debug\DirectShowLib-2005.dll
+C:\Program Files (x86)\Direct MP4 Encoder Directshow Filter\Examples\C#2010\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\Direct MP4 Encoder Directshow Filter\Examples\C#2010\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Program Files (x86)\Direct MP4 Encoder Directshow Filter\Examples\C#2010\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Program Files (x86)\Direct MP4 Encoder Directshow Filter\Examples\C#2010\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Program Files (x86)\Direct MP4 Encoder Directshow Filter\Examples\C#2010\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Program Files (x86)\Direct MP4 Encoder Directshow Filter\Examples\C#2010\obj\x86\Debug\WindowsFormsApplication1.pdb
